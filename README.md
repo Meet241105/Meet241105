@@ -24,8 +24,8 @@ Welcome to my GitHub profile! I'm a passionate **Frontend / Full-stack Developer
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?Meet241105=Meet241105&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Meet241105=Meet241105&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Meet241105&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Meet241105&layout=compact&theme=radical)
 
 ---
 
