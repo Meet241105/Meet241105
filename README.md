@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm a passionate **Frontend / Full-stack Developer
 
 - 🌐 Bento Profile: [yourportfolio.link](https://bento.me/meet2405)
 - 💼 LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/meet-k-620115229/)
-- 🐦 Twitter: [@yourhandle](https://x.com/meet_2405)
+- 🐦 Twitter: https://x.com/meet_2405
 - ✉️ Email: meet24.kanojiya@gmail.com
 
 ---
